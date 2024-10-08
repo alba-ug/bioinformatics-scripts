@@ -1,4 +1,4 @@
-# Bioinformatics Scripts Repository
+# Bioinformatics Scripts
 
 This repository contains scripts for performing various bioinformatics analyses. 
 
